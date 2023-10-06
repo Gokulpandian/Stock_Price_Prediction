@@ -1,2 +1,2 @@
 # Stock_Price_Prediction
-Stock Price Prediction Using Multiple Techniques
+The code explores various methods for stock price prediction, including statistical mean calculation, linear regression, and LSTM neural networks, offering a diverse range of techniques for forecasting stock market trends.
